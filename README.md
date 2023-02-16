@@ -4,7 +4,7 @@ The following repository comprises tasks, which we assigned in internship @ Oasi
 •	TENURE: 1 to 28 Feb 2023
 •	LEVEL: 2
 •	Following Tasks:
-                 1] TASK 1: CALCULATOR
-                 2] TASK 2: TRIBUTE PAGE
-                 3] TASK 3: TO-DO WEB APP
+                 TASK 1: CALCULATOR
+                 ,TASK 2: TRIBUTE PAGE
+                 ,TASK 3: TO-DO WEB APP
 
