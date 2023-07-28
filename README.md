@@ -5,6 +5,6 @@ The following repository comprises tasks, which we assigned in internship @ Oasi
 •	LEVEL: 2
 •	Following Tasks:
                  TASK 1: CALCULATOR
-                 ,TASK 2: TRIBUTE PAGE
-                 ,TASK 3: TO-DO WEB APP
+                 TASK 2: TRIBUTE PAGE
+                 TASK 3: TO-DO WEB APP
 
